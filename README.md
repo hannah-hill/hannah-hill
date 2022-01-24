@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm a junior software engineer based in London, with experience building fluid, full-stack web applications.
+
+### Check out my [portfolio](https://hannah-hill.co.uk/).
 
 <!--
 **hannah-hill/hannah-hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
