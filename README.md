@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### I'm a junior software engineer based in London, with experience building fluid, full-stack web applications.
+#### I'm a Junior Software Engineer based in London, with experience building fluid, full-stack web applications.
 
 #### Check out my [portfolio](https://hannah-hill.co.uk/).
 
